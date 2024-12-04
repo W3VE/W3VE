@@ -7,11 +7,12 @@
          width="50%">
   </picture>
 
-[Issues] | [Contributing] | [Terms]
+[Issues] | [Contributing] | [SNS Policy] | [Terms]
 </div>
 
 [Issues]: https://github.com/W3VE/W3VE/issues
 [Contributing]: CONTRIBUTING.md
+[SNS Policy]: SNS_POLICY.md
 [Terms]: TERMS.md
 
 ## 概要
@@ -34,6 +35,14 @@ W3VEを利用する全ての方は、以下のリンク先に記載された利�
 バグの報告や脆弱性情報の共有にご協力いただける方は、以下のコントリビューションガイドをご参照ください：
 
 - [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## SNS運用ポリシー
+
+W3VEの公式SNSアカウントの運用方針：
+
+- [SNS_POLICY.md](SNS_POLICY.md)
 
 ---
 
